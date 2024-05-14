@@ -31,4 +31,4 @@ The author is not responsible for any misuse of this application. Please respect
 
 ## License
 
-[MIT]()
+[MIT](https://github.com/tylerlight071/Web-Image-Scraper/blob/main/LICENSE)
